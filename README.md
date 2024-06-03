@@ -1,2 +1,1 @@
-# hunychain.github.io
-my website
+# [hunychain.github.io](https://hunychain.github.io/)
